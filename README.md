@@ -4,5 +4,4 @@
 
 * __What is JSON CAPITAL?__
 
-    The highest return blockchain hedge fund on the market.
-
+    JSON capital is an Australian based crypto currency hedge fund.
